@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
 :root{
-    --orange:#ff7800;
+    --blue:#2426a8;
     --black:#130f40;
     --light-color:#666;
     --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
@@ -44,7 +44,7 @@ section{
 }
 
 .heading span{
-    background: var(--orange);
+    background: var(--blue); 
     color:#fff;
     display: inline-block;
     padding:.5rem 3rem;
@@ -64,7 +64,7 @@ section{
 }
 
 .btn:hover{
-    background: var(--orange);
+    background: var(--blue);
     color:#fff;
 }
 
@@ -87,7 +87,7 @@ section{
 }
 
 .header .logo i{
-    color:var(--orange);
+    color:var(--blue);
 }
 
 .header .navbar a{
@@ -97,7 +97,7 @@ section{
 }
 
 .header .navbar a:hover{
-    color:var(--orange);
+    color:var(--blue);
 }
 
 .header .icons div{
@@ -114,7 +114,7 @@ section{
 }
 
 .header .icons div:hover{
-    background: var(--orange);
+    background: var(--blue);
     color:#fff;
 }
 
@@ -198,7 +198,7 @@ section{
 }
 
 .header .shopping-cart .box .fa-trash:hover{
-    color:var(--orange);
+    color:var(--blue);
 }
 
 .header .shopping-cart .box .content h3{
@@ -384,7 +384,7 @@ section{
 
 .products .product-slider .box .stars i{
     font-size: 1.7rem;
-    color:var(--orange);
+    color:var(--blue);
     padding:.5rem 0;
 }
 
@@ -467,7 +467,7 @@ section{
 }
 
 .review .review-slider .box .stars i{
-    color:var(--orange);
+    color:var(--blue);
     font-size: 1.7rem;
 }
 
@@ -513,7 +513,7 @@ section{
 }
 
 .blogs .box-container .box .content .icons a i{
-    color:var(--orange);
+    color:var(--blue);
     padding-right: .5rem;
 }
 
@@ -548,7 +548,7 @@ section{
 }
 
 .footer .box-container .box h3 i{
-    color:var(--orange);
+    color:var(--blue);
 }
 
 .footer .box-container .box .links{
@@ -588,7 +588,7 @@ section{
 }
 
 .footer .box-container .box .share a:hover{
-    background: var(--orange);
+    background: var(--blue);
     color: #fff;
 }
 
@@ -620,7 +620,7 @@ section{
 }
 
 .footer .credit span{
-    color:var(--orange);
+    color:var(--blue);
 }
 
 
